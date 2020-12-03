@@ -13,4 +13,4 @@ end
 puts "数字を入力してください。"
 number = gets.to_i
 puts "結果は..."
-puts fizz_buzz(number
+puts fizz_buzz(number)
